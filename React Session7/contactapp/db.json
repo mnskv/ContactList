@@ -1,0 +1,19 @@
+{
+  "contacts": [{
+    "name": "mary",
+    "email": "mary@example.com",
+    "phone": "555-555-5555",
+    "address": "123 Main St",
+    "city": "Anytown",
+    "state": "CA"
+  },
+  {
+    "name": "margo",
+    "email": "margo@example.com",
+    "phone": "5577-555-5555",
+    "address": "main vinayakanagar",
+    "city": "thistown",
+    "state": "banaglore"
+  }
+]
+}
